@@ -39,7 +39,7 @@ A full-stack web application for delivering interactive online courses with real
 
 1. **Clone and Setup**
    ```bash
-   git clone https://github.com/Lipenncom1/COMPS380F-Web-App-Dev-group-project.git
+   git clone https://github.com/5itspj/School-Web-Application.git
    cd S380Project
    ./gradlew clean build
    ```
