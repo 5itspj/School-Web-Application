@@ -40,7 +40,7 @@ A full-stack web application for delivering interactive online courses with real
 1. **Clone and Setup**
    ```bash
    git clone https://github.com/5itspj/School-Web-Application.git
-   cd S380Project
+   cd School-Web-Application 
    ./gradlew clean build
    ```
 
