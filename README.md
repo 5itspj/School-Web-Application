@@ -113,8 +113,9 @@ A full-stack web application for delivering interactive online courses with real
 The application uses H2 database with the following settings:
 - **Database URL**: `jdbc:h2:mem:testdb`
 - **Console**: http://localhost:8081/S380Project/h2-console
-- **Username**: `myDB`
-- **Password**: `sa`
+- **Database Name**: `myDB`
+- **Username**: `sa`
+- **Password**: `password`
 
 Database schema and initial data are automatically initialized on application startup.
 
